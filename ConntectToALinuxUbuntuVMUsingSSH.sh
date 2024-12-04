@@ -1,0 +1,1 @@
+gcloud compute ssh --zone "europe-north1-a" "linuxubuntutestvm0120241127" --project "eighth-codex-441313-q9"

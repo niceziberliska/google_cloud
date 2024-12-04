@@ -1,0 +1,2 @@
+gcloud compute images list
+
